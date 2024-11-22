@@ -1,0 +1,1 @@
+In this repo I created I have dragged and dropped the zip file that I have downloaded from the eShopOnWeb repo through the link. I have made a Workflow in the Actions tab with a .yaml file with the configurations in place.
